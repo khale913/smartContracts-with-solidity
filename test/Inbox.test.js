@@ -1,4 +1,6 @@
 // contract test code will go here
+// https://rinkeby.infura.io/v3/12707f0455dd4f9a9dec2860cb9b1f99
+
 const assert = require("assert");
 const ganache = require("ganache-cli");
 const Web3 = require("web3");
